@@ -1,8 +1,4 @@
 <!-- Imagem de capa personalizada (pode colocar um banner institucional da Holding LUCK ou AutoConforto depois) -->
-<p align="center">
-  <img src="https://github.com/britsu/assets/blob/main/fbf274a9-0cca-421d-b194-cfd0d542ff58.png?raw=true" alt="LUCK Holding Banner" width="600"/>
-</p>
-
 
 <h1 align="center">Luis Henrick Brito Pego</h1>
 <h3 align="center">
